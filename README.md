@@ -1,4 +1,4 @@
-# Europe-Wind-Drought-Analysis(Part of MTech Thesis)
+# Europe-Wind-Drought-Analysis(Part of MTech Thesis, First presented at EGU' 25, Vienna)
 This project highlights the effect of background atmospheric conditions driving Wind power generation at wind farms across europe during wind drought year 2021.
 ![Screenshot 2025-06-12 103455](https://github.com/user-attachments/assets/91297552-657c-4aeb-90d2-6073f3939108)
 ![Screenshot 2025-06-12 103441](https://github.com/user-attachments/assets/e064218e-1491-482d-b7a6-188111fc5e18)
